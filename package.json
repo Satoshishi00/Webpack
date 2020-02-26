@@ -1,7 +1,7 @@
 {
-  "name": "webpack",
+  "name": "learnwebpack",
   "version": "1.0.0",
-  "description": "Projet pour apprendre à utiliser webpack",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Satoshishi00/Webpack.git"
   },
-  "author": "Satoshishi00",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Satoshishi00/Webpack/issues"
