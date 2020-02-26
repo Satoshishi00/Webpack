@@ -1,0 +1,19 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Projet pour apprendre à utiliser webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satoshishi00/Webpack.git"
+  },
+  "author": "Satoshishi00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satoshishi00/Webpack/issues"
+  },
+  "homepage": "https://github.com/Satoshishi00/Webpack#readme"
+}
